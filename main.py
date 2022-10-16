@@ -76,4 +76,5 @@ async def feeds():
     
 
     
-bot.run(feeds())
+bot.run()
+print("Bot Ded\n")
