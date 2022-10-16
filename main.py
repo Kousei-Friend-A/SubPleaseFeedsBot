@@ -11,7 +11,7 @@ bot = Client(
     bot_token=os.environ.get("TOKEN")
 )
 
-CHAT_ID = os.environ.get('CHAT_ID')
+CHAT_ID = -1001717995680
 
 
 
