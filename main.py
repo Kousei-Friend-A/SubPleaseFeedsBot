@@ -6,9 +6,9 @@ import time
 
 bot = Client(
     ":memory:",
-    api_id=os.environ.get("API_ID"),
-    api_hash=os.environ.get("API_HASH"),
-    bot_token=os.environ.get("TOKEN")
+    api_id= 17945796
+    api_hash= "4a05481a5da2d66f801acffc4ca5ee4b"
+    bot_token= "5687118765:AAGd2l-MkzzPX2-43X96i8h1D1jRAML8g3Q"
 )
 
 CHAT_ID = -1001717995680
