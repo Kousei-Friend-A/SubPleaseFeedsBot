@@ -6,12 +6,12 @@ import time
 
 bot = Client(
     ":memory:",
-    api_id= 17945796,
-    api_hash= "4a05481a5da2d66f801acffc4ca5ee4b",
-    bot_token= "5687118765:AAGd2l-MkzzPX2-43X96i8h1D1jRAML8g3Q"
+    api_id= ,
+    api_hash= " ",
+    bot_token= " "
 )
 
-CHAT_ID = -1001717995680
+CHAT_ID = 
 
 
 
@@ -76,5 +76,5 @@ async def feeds():
     
 
     
-bot.run(feeds)
-print("Bot Ded\n")
+bot.run()
+print("Bot Dead")
